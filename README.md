@@ -1,4 +1,4 @@
-# Write Up For problem 4
+# Algorithms for Barista
 For this problem, I am using a HashMap that maps card numbers to customers. Customer is a class that consists of customer's information such as their favorite coffee, number of coupons they have, number of coffees they have, and their card Number. I have two classes Barista. In this scenario barista is not the person but the coffee shop name that customer has visited. I accidentally Named Barista because I didn't know the actual meaning of Barista before. I tried changing it to some other generic name, but I faced some refactoring issues. The reason behind using Map is to hold key and pair values together. On top of that, I used Hash Map because it takes less time to insert and search than TreeMap.
    Conventions and Assumptions made for this problem:
 
